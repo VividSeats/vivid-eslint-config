@@ -1,1 +1,1 @@
-# vivid-eslint-config
+# eslint-config-vividseats
