@@ -1,0 +1,27 @@
+{
+  "name": "@vividseats/eslint-config-vividseats",
+  "version": "0.0.1",
+  "description": "Base eslint config for vivid-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VividSeats/vivid-eslint-config.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VividSeats/vivid-eslint-config/issues"
+  },
+  "homepage": "https://github.com/VividSeats/vivid-eslint-config#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.0"
+  }
+}
